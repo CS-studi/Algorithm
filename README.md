@@ -9,11 +9,11 @@ ___재밌게, 질리지 않게, 필요한 만큼, 꾸준히___
 
 ### the way we Do
 
-각 파트별 매주 3문제씩 풀고 각자의 풀이 공유, <br>
-플랫폼은 [LeetCode](https://leetcode.com/problemset/all/)를 활용, <br>
-난이도는 일반 기업 코테 수준을 갖추기 위해 `easy-medium`으로 시작해 `hard`까지 도전, <br>
-주석 필수, <br>
-`Language는 Java, Javascript Swift`로 진행할 예정 
+- 각 파트별 매주 3문제씩 풀고 각자의 풀이 공유
+- 플랫폼은 [LeetCode](https://leetcode.com/problemset/all/)를 활용
+- 난이도는 일반 기업 코테 수준을 갖추기 위해 `easy-medium`으로 시작해 `hard`까지 도전
+- 주석 필수
+- Language는 Java, Javascript Swift로 진행할 예정 
 
 ### Content
 
