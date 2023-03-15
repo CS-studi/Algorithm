@@ -1,5 +1,7 @@
 # Algorithm
 
+<br>
+
 ## Goal
 
 ___재밌게, 질리지 않게, 필요한 만큼, 꾸준히___
@@ -16,8 +18,9 @@ ___재밌게, 질리지 않게, 필요한 만큼, 꾸준히___
 
 ## Content
 
+|****|****|
 |파트|문제|
-|*****|*****|
+|****|****|
 |Hash Table|1. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) <br> 2. [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) <br> 3. [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|
 |Stack||
 |Queue||
