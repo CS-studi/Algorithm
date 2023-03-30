@@ -29,7 +29,7 @@ ___재밌게, 질리지 않게, 필요한 만큼, 꾸준히___
 |BS||
 |BFS||
 |Backtracking||
-|DFS||
+|DFS|[101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)<br>[207. Course Schedule](https://leetcode.com/problems/course-schedule/)<br>[235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|
 |Sliding window||
 |Two Pointers||
 |Dynamic Programming||
