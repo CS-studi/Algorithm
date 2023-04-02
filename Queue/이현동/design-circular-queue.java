@@ -39,7 +39,7 @@ class MyCircularQueue {
             return true;
         }
         front=(front+1)%size;
-        return true;
+        return true;1
     }
     
     public int Front() {
