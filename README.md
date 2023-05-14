@@ -31,6 +31,6 @@ ___재밌게, 질리지 않게, 필요한 만큼, 꾸준히___
 
 |문제|링크|
 |----|----|
-|1.|[요격 시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188)|
-|2.|[두 원 사이의 정수 쌍](https://school.programmers.co.kr/learn/courses/30/lessons/181187)|
-|3.|[아방가르드 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/181186)|
+|1|[요격 시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188)|
+|2|[두 원 사이의 정수 쌍](https://school.programmers.co.kr/learn/courses/30/lessons/181187)|
+|3|[아방가르드 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/181186)|
