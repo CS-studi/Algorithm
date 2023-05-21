@@ -31,5 +31,5 @@ ___재밌게, 질리지 않게, 필요한 만큼, 꾸준히___
 
 |주차|링크|
 |----|----|
-|1주차|[백준 1주차](https://www.acmicpc.net/group/practice/view/17887/1](https://www.acmicpc.net/group/17887)|
+|1주차|[백준 1주차](https://www.acmicpc.net/group/17887)|
 
