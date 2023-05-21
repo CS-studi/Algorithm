@@ -27,9 +27,10 @@ ___재밌게, 질리지 않게, 필요한 만큼, 꾸준히___
 |Backtracking|[131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)<br>[216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)<br>[401. Binary Watch](https://leetcode.com/problems/binary-watch/)|
 |DFS|[101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)<br>[207. Course Schedule](https://leetcode.com/problems/course-schedule/)<br>[235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|
 
-### 🧬Programmers Content
+### 🧬Programmers & BOJ Content
 
 |주차|링크|
 |----|----|
 |1주차|[1. 요격 시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188)<br>[2. 두 원 사이의 정수 쌍](https://school.programmers.co.kr/learn/courses/30/lessons/181187)<br>[3. 아방가르드 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/181186)|
+|2주차|[1. 연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870)<br>[]()<br>[]()<br>[]()|
 
