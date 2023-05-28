@@ -2,6 +2,7 @@ def solution(r1, r2):
     answer = 0
     
     # 1사 분면 위의 점만 계산 하여 4배
+    # 슬라이딩 윈도우 메커니즘
     cnt = 0
     y_min, y_max = r1, r2
     
